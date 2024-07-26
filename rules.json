@@ -1,0 +1,96 @@
+{
+    "list": [
+        {
+            "fileName": "adsvideo",
+            "url": [
+                "https://raw.githubusercontent.com/limbopro/Adblock4limbo/main/Surge/rule/Adblock4limbo_surge.list"
+            ]
+        }
+    ],
+    "yaml": [
+        {
+            "fileName": "ads",
+            "url": [
+                "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Advertising/Advertising.yaml"
+            ]
+        },
+        {
+            "fileName": "telegram",
+            "url": [
+                "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Telegram/Telegram.yaml"
+            ]
+        },
+        {
+            "fileName": "pt",
+            "url": [
+                "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/PrivateTracker/PrivateTracker.yaml"
+            ]
+        }
+    ],
+    "srs": [
+        {
+            "fileName": "ai",
+            "url": "https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/ai.srs"
+        },
+        {
+            "fileName": "apple",
+            "url": "https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/apple-cn.srs"
+        },
+        {
+            "fileName": "disney",
+            "url": "https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/disney.srs"
+        },
+        {
+            "fileName": "games",
+            "url": "https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/games-cn.srs"
+        },
+        {
+            "fileName": "google",
+            "url": "https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/google-cn.srs"
+        },
+        {
+            "fileName": "microsoft",
+            "url": "https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/microsoft-cn.srs"
+        },
+        {
+            "fileName": "netflix",
+            "url": "https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/netflix.srs"
+        },
+        {
+            "fileName": "netflixip",
+            "url": "https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/netflixip.srs"
+        },
+        {
+            "fileName": "primevideo",
+            "url": "https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/primevideo.srs"
+        },
+        {
+            "fileName": "proxy",
+            "url": "https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/proxy.srs"
+        },
+        {
+            "fileName": "tiktok",
+            "url": "https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/tiktok.srs"
+        },
+        {
+            "fileName": "youtube",
+            "url": "https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/youtube.srs"
+        },
+        {
+            "fileName": "cn",
+            "url": "https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/cn.srs"
+        },
+        {
+            "fileName": "cnip",
+            "url": "https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/cnip.srs"
+        },
+        {
+            "fileName": "private",
+            "url": "https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/private.srs"
+        },
+        {
+            "fileName": "privateip",
+            "url": "https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/privateip.srs"
+        }
+    ]
+}
