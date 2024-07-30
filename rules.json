@@ -7,6 +7,19 @@
             ]
         }
     ],
+    "json": [
+        {
+            "fileName": "cn",
+            "url": [
+                "https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/cn.json"
+            ],
+            "exclude": [
+                "moomoo.com",
+                "moomooequity.com",
+                "moomootrustee.com"
+            ]
+        }
+    ],
     "yaml": [
         {
             "fileName": "ads",
@@ -75,10 +88,6 @@
         {
             "fileName": "youtube",
             "url": "https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/youtube.srs"
-        },
-        {
-            "fileName": "cn",
-            "url": "https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/cn.srs"
         },
         {
             "fileName": "cnip",
