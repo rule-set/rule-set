@@ -14,6 +14,15 @@
                 "https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/cn.json"
             ],
             "exclude": [
+                "futuniuniu.com",
+                "futunn.com",
+                "futureengineer.org",
+                "futureprize.org",
+                "futurescircle.com",
+                "futurescontest.com",
+                "fututools.com",
+                "fututrade.com",
+                "fututrustee.com",
                 "moomoo.com",
                 "moomooequity.com",
                 "moomootrustee.com"
