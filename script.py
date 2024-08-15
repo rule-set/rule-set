@@ -184,12 +184,13 @@ class RuleSetConvertor:
             for url in rule.get("url", []):
                 json_content = self.get_rule_set(url)
                 if json_content:
-                    exclude = rule.get("exclude")
-                    for key, values in json_content["rules"][0].items():
-                        intersection = set(exclude).intersection(set(values))
-                        if intersection:
-                            for i in intersection:
-                                json_content["rules"][0][key].remove(i)
+                    exclude = rule.get("exclude", "")
+                    if exclude != "":
+                        for key, values in json_content["rules"][0].items():
+                            intersection = set(exclude).intersection(set(values))
+                            if intersection:
+                                for i in intersection:
+                                    json_content["rules"][0][key].remove(i)
 
             if "custom" in rule:
                 for custom_item in rule["custom"]:
