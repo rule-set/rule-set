@@ -30,63 +30,63 @@
         },
         {
             "fileName": "ai",
-            "url": ["https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/ai.srs"]
+            "url": ["https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/ai.json"]
         },
         {
             "fileName": "apple",
-            "url": ["https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/apple-cn.srs"]
+            "url": ["https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/apple-cn.json"]
         },
         {
             "fileName": "disney",
-            "url": ["https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/disney.srs"]
+            "url": ["https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/disney.json"]
         },
         {
             "fileName": "games",
-            "url": ["https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/games-cn.srs"]
+            "url": ["https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/games-cn.json"]
         },
         {
             "fileName": "google",
-            "url": ["https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/google-cn.srs"]
+            "url": ["https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/google-cn.json"]
         },
         {
             "fileName": "microsoft",
-            "url": ["https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/microsoft-cn.srs"]
+            "url": ["https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/microsoft-cn.json"]
         },
         {
             "fileName": "netflix",
-            "url": ["https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/netflix.srs"]
+            "url": ["https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/netflix.json"]
         },
         {
             "fileName": "netflixip",
-            "url": ["https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/netflixip.srs"]
+            "url": ["https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/netflixip.json"]
         },
         {
             "fileName": "primevideo",
-            "url": ["https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/primevideo.srs"]
+            "url": ["https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/primevideo.json"]
         },
         {
             "fileName": "proxy",
-            "url": ["https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/proxy.srs"]
+            "url": ["https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/proxy.json"]
         },
         {
             "fileName": "tiktok",
-            "url": ["https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/tiktok.srs"]
+            "url": ["https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/tiktok.json"]
         },
         {
             "fileName": "youtube",
-            "url": ["https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/youtube.srs"]
+            "url": ["https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/youtube.json"]
         },
         {
             "fileName": "cnip",
-            "url": ["https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/cnip.srs"]
+            "url": ["https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/cnip.json"]
         },
         {
             "fileName": "private",
-            "url": ["https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/private.srs"]
+            "url": ["https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/private.json"]
         },
         {
             "fileName": "privateip",
-            "url": ["https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/privateip.srs"]
+            "url": ["https://raw.githubusercontent.com/DustinWin/ruleset_geodata/sing-box-ruleset/privateip.json"]
         }
     ],
     "yaml": [
